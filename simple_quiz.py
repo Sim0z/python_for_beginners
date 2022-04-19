@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def new_game():
     q_num = 1
     guesses = []
